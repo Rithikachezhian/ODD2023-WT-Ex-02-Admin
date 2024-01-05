@@ -20,7 +20,8 @@ Step 7: Enter a given credentials to sign in into django server.
 Step 8: Add some users according to the user.
 step 9: Add mail ids of users
 # output:
-![Screenshot 2024-01-05 094905](https://github.com/Rithikachezhian/ODD2023-WT-Ex-02-Admin/assets/145742406/128bb9ac-3c1f-485f-bdfc-572c510b19b3)
+![Screenshot 2024-01-05 095630](https://github.com/Rithikachezhian/ODD2023-WT-Ex-02-Admin/assets/145742406/2c540d09-b426-4a38-bf2d-2ada744887af)
+
 # Result:
 The output was verified sucessfully
 
